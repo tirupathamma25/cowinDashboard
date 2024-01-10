@@ -1,0 +1,47 @@
+.cowin-dashboard {
+  background-color: #1c1c2b;
+  height: 190vh;
+  width: 140vh;
+  padding-left: 30px;
+  padding-top: 20px;
+}
+.website-card {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.website-logo {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+.co-win-heading {
+  color: #2cc6c6;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.co-win-vaccination-h1 {
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #cbd5e1;
+}
+
+.failure-view {
+  height: 350px;
+  width: 350px;
+}
+.vaccination-data-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.vaccination-h1 {
+  color: #94a3b8;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
